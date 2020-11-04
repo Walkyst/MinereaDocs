@@ -42,7 +42,7 @@ You can get list of this type of commands through typing !help
 * !user — [More info about permission system here.](permission-system.md#user-permission)
 * !config — Show current state of [track annnoune](changing-config.md#setting-track-announce) and [auto resume](changing-config.md#setting-auto-resume) features.
 
-{% hint style="warning" %}
+{% hint style="info" %}
 You can get list of this type of commands through typing !other
 {% endhint %}
 
