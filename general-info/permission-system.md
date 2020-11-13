@@ -1,82 +1,82 @@
 ---
-description: All information that you need about perms system in Minerea
+description: Вся необходимая информация о системе разрешений в Minerea
 ---
 
-# Permission system
+# Система разрешений
 
-## Introduction
+## Введение
 
-Minerea is focused on easy using in small servers where everyone is friends and not want to wasting time for dealing with setting right permissions, but if you owner of big server or just want prohibit annoying user from using bot in your server, permission system at your service
+Minerea ориентирована на небольшие сервера, где все являются друзьями и не хотят тратить время на установку правильных прав для использования бота, но если вы являетесь владельцем большого сервера или просто хотите запретить назойливому пользователю использовать бота на вашем сервере, система разрешений то что вам нужно
 
-### Admin permission
+### Admin разрешение
 
-* [x] Add track to queue
-* [x] Voteskip command
-* [x] Skip own track
-* [x] Skip other users tracks
-* [x] Repeat, reshuffle, pause, unpause, leave, stop, volume commands
-* [x] Change permissions, language, prefix of guild and access to config command
-* [x] Destroy command
-
-{% hint style="info" %}
-Server owner **always** have Admin permission
-{% endhint %}
-
-### DJ permission
-
-* [x] Add track to queue
-* [x] Voteskip command
-* [x] Skip own track
-* [x] Skip other users tracks
-* [x] Repeat, reshuffle, pause, unpause, leave, stop, volume commands
-* [ ] Change permissions, language, prefix of guild and access to config command
-* [ ] Destroy command
+* [x] Добавлять треки в очередь
+* [x] Voteskip команда
+* [x] Пропускать собственные треки
+* [x] Пропускать треки других пользователей
+* [x] Repeat, reshuffle, pause, unpause, leave, stop, volume команды
+* [x] Изменять разрешения, язык, префикс сервера и доступ к config команде
+* [x] Destroy команда
 
 {% hint style="info" %}
-By default @everyone has DJ permission
+Владелец сервера **всегда** имеет Admin разрешение
 {% endhint %}
 
-### User permission
+### DJ разрешение
 
-* [x] Add track to queue, but can't add it to top of queue
-* [x] Voteskip command
-* [x] Skip own track
-* [ ] Skip other users tracks
-* [ ] Repeat, reshuffle, pause, unpause, leave, stop, volume commands
-* [ ] Change permissions, language, prefix of guild and access to config command
-* [ ] Destroy command
+* [x] Добавлять треки в очередь
+* [x] Voteskip команда
+* [x] Пропускать собственные треки
+* [x] Пропускать треки других пользователей
+* [x] Repeat, reshuffle, pause, unpause, leave, stop, volume команды
+* [ ] Изменять разрешения, язык, префикс сервера и доступ к config команде
+* [ ] Destroy команда
 
 {% hint style="info" %}
-By defauly @everyone has User permission
+По умолчанию у @everyone есть DJ разрешение
 {% endhint %}
 
-## Setting permissions
+### User разрешение
 
-Any user or role can be added to any permission
+* [x] Добавлять треки в очередь, но не могу добавить его в начало очереди
+* [x] Voteskip команда
+* [x] Пропускать собственные треки
+* [ ] Пропускать треки других пользователей
+* [ ] Repeat, reshuffle, pause, unpause, leave, stop, volume команды
+* [ ] Изменять разрешения, язык, префикс сервера и доступ к config команде
+* [ ] Destroy команда
 
-For example
+{% hint style="info" %}
+По умолчанию у @everyone есть User разрешение
+{% endhint %}
+
+## Настройка разрешений
+
+Любого пользователя или роль можно добавить к любому разрешению
+
+Пример
 
 * !admin `add w.st#8014`
 
 {% hint style="info" %}
-If user or role has all DJ, Admin and User permission only the highest one take account of on command execution
+Если у пользователя или роли есть все права DJ, Admin и User, то при выполнении команды учитывается только наивысшее из них
 {% endhint %}
 
-Also you can denied someone from any permission
+Также вы можете убрать пользователя или роль с любого разрешения
 
-For example
+Пример
 
 * !admin `remove w.st#8014`
 
 {% hint style="warning" %}
-You can't remove yourself from Admin permission if you don't have Administrator rights on server itself, this action will leave you without any permissions at all!
+Вы не можете убрать у себя Admin разрешение если у вас нет прав администратора на самом сервере, это действие оставит вас вообще без каких-либо прав!
 {% endhint %}
 
 {% hint style="info" %}
-To remove @everyone from any permission you don't need ping it, just write everyone without @
+Чтобы удалить у @everyone какое либо разрешение, вам не нужно упоминать его, просто напишите everyone без @
 
   
-For example 
+Пример
 
 * !dj `remove everyone`
 {% endhint %}

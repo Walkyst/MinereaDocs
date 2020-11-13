@@ -1,39 +1,39 @@
 ---
-description: In this docs you can find all useful information about Minerea
+description: В этой документации вы можете найти всю полезную информацию о Minerea
 ---
 
-# Home page
+# Домашняя страница
 
-## Introduction
+## Введение
 
-**Minerea is all about music, it's simple and easy to use, don't require any configuration, just invite bot and start listening all music that you love with friends in voice channels!**
+**Minerea — это бот, полностью фокусированный на музыку, он прост в использовании и не требующий настройки, просто пригласите бота и начните слушать музыку, которую вы любите вместе друзьями в голосовых каналах!**
 
-## Getting started
+## Прежде чем начать
 
-First of all you need invite bot to your server with following this simple steps:
+Прежде всего вам нужно пригласить бота на свой сервер, выполнив эти простые шаги
 
-1. [Click this link](https://sdc.su/minerea)
-2. Select server to which you want invite Minerea.  **If you don't see desired server, make sure that you logged in to right discord account,** [**check that guide**](https://support.discord.com/hc/en-us/articles/209572128-Minerea) **for logging out from wrong account, then log into right one**
-3. Click "Continue" then "Authorize" buttons
-4. Complete captcha
-5. You are awesome!
+1. [Перейдите по этой ссылке](https://sdc.su/minerea)
+2. Выберите сервер, на который вы хотите пригласить Minerea. **Если вы не видите нужный сервер, убедитесь, что вы вошли в правильную учетную запись Discord, проверьте** [**это руководство**](https://support.discord.com/hc/ru/articles/209572128-Minerea) **для выхода из неправильной учетной записи, затем войдите в нужную**
+3. Нажмите "Continue" затем "Authorize" кнопки
+4. Выполните капчу
+5. Вы великолепны!
 
 {% hint style="warning" %}
-**Highly recommended to add bot with all checkboxes marked, so bot can working as expected!**
+Настоятельно рекомендуется добавлять бота со всеми отмеченными правами чтобы всё работало должным образом!
 {% endhint %}
 
-## After adding bot
+## После добавления бота
 
-If you new to discord and bots stuff, it very recommended read whole [basic usage section](basic-usage/playing-music.md) and also learn from [what sources you can listen music](general-info/supported-music-sources.md) through Minerea
+Если вы новичок в Discord и ботах, рекомендуется прочитать весь [раздел базового использования](basic-usage/playing-music.md), а также узнать из [каких источников вы можете слушать музыку](general-info/supported-music-sources.md) через Minerea
 
-## Some useful links
+## Несколько полезных ссылок
 
 {% hint style="info" %}
-[List of all commands](general-info/list-of-all-commands.md)
+[Список всех команд](general-info/list-of-all-commands.md)
 {% endhint %}
 
 {% hint style="info" %}
-[Permission system](general-info/permission-system.md)
+[Система разрешений](general-info/permission-system.md)
 {% endhint %}
 
 

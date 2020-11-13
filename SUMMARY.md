@@ -1,15 +1,15 @@
 # Table of contents
 
-* [Home page](README.md)
+* [Домашняя страница](README.md)
 
-## Basic usage
+## Базовое использование <a id="basic-usage"></a>
 
-* [Playing music](basic-usage/playing-music.md)
+* [Воспроизведение музыки](basic-usage/playing-music.md)
 
-## General info
+## Общая информация <a id="general-info"></a>
 
-* [List of all commands](general-info/list-of-all-commands.md)
-* [Changing config](general-info/changing-config.md)
-* [Permission system](general-info/permission-system.md)
-* [Supported music sources](general-info/supported-music-sources.md)
+* [Список всех команд](general-info/list-of-all-commands.md)
+* [Изменение конфигурации](general-info/changing-config.md)
+* [Система разрешений](general-info/permission-system.md)
+* [Поддерживаемые источники музыки](general-info/supported-music-sources.md)
 

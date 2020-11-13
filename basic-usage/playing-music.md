@@ -1,41 +1,42 @@
 ---
-description: This page will explain basic usage of Minerea
+description: Эта страница объяснит базовое использование Minerea
 ---
 
-# Playing music
+# Воспроизведение музыки
 
 {% hint style="info" %}
-Basic prefix of Minerea is `!`  
-It can be changed by [following this guide](../general-info/changing-config.md#setting-prefix)
+Базовый префикс Minerea `!`  
+Его можно изменить, следуя [этому руководству](../general-info/changing-config.md#izmenenie-prefiksa)
 
-Minerea always use mention as prefix. Example: `@Minerea♪#1461 play`
+Minerea всегда использует упоминание в качестве префикса  
+Пример: `@Minerea♪#1461 play`
 {% endhint %}
 
 {% hint style="warning" %}
-You need to be in voice channel to order music
+Чтобы запросить трек, вам нужно быть в голосовом канале
 {% endhint %}
 
-## Playing through searching
+## Запрос трека через поиск
 
-Type in text channel
+Введите в текстовый канал
 
-* !play `song name`
+* !play `название трека`
 
-![](../.gitbook/assets/searching.png)
+![](../.gitbook/assets/rusearching.png)
 
-Bot will give you list of 10 songs, select any with
+Бот выдаст вам список из 10 песен, выберите любую с помощью
 
-* !play `number from list`
+* !play `номер из списка` или `!номер из списка`
 
-![](../.gitbook/assets/select5.png)
+![](../.gitbook/assets/ruselect5.png)
 
-## Playing through link
+## Запрос трека через ссылку
 
-Type in text channel 
+Введите в текстовом канале
 
-* !play `link to song`
+* !play `ссылка на трек`
 
-![](../.gitbook/assets/link.png)
+![](../.gitbook/assets/rulink.png)
 
-[**List of all supported sources**](../general-info/supported-music-sources.md)\*\*\*\*
+[**Список всех платформ откуда бот может воспроизводить треки**](../general-info/supported-music-sources.md)\*\*\*\*
 

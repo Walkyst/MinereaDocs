@@ -1,8 +1,10 @@
 ---
-description: This page include list of all sources from which Minerea can play music
+description: >-
+  Эта страница включает список всех источников, из которых Minerea может
+  воспроизводить музыку
 ---
 
-# Supported music sources
+# Поддерживаемые источники музыки
 
 * YouTube
 * Spotify
@@ -10,7 +12,7 @@ description: This page include list of all sources from which Minerea can play m
 * Twitch
 * Vimeo
 * Bandcamp
-* Radio streams
-* Message attachments
-* Files over HTTP\(S\)
+* Радио поток
+* Вложения сообщений
+* Файлы через HTTP\(S\)
 

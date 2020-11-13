@@ -1,48 +1,48 @@
 ---
-description: The whole commands that Minerea have
+description: Все команды которые есть в Minerea
 ---
 
-# List of all commands
+# Список всех команд
 
-## Music commands
+## Музыкальные команды
 
-* !play &lt;title \| URL&gt; — Searching song with the given name or url.
-* !playnext &lt;title \| URL&gt; — Searching song with the given name or url but added it to top of queue.
-* !playnow &lt;title \| URL&gt; — Searching song with the given name but automatically select first result from list.
-* !playnownext &lt;title \| URL&gt; — Searching song with the given name but automatically select first result from list and added it to top of queue.
-* !skip — Skip current song.
-* !stop - Clean queue.
-* !repeat single/all/off - Repeating current song. Repeating all queue. Repeating disabled.
-* !shuffle/reshuffle - Shuffle songs in queue. Shuffle queue again.
-* !np - Showing song the bot is playing.
-* !queue — Shows current queue.
-* !pause — Pauses the current song.
-* !destroy — Clean queue and disconnect from voice channel.
-* !history — Show recently played songs.
-* !save — Save current queue.
+* !play &lt;title \| URL&gt; — Поиск трека с заданным названием или url.
+* !playnext &lt;title \| URL&gt; — Поиск композиции с заданным именем или url, но добавляет её в верхнюю часть очереди.
+* !playnow &lt;title \| URL&gt; — Поиск композиции с заданным именем, но автоматически выбирает первый результат из списка.
+* !playnownext &lt;title \| URL&gt; — Поиск композиции с заданным именем, но автоматически выбирает первый результат из списка и добавляет её в верхнюю часть очереди.
+* !skip — Пропустить текущий трек.
+* !stop — Очистить очередь.
+* !repeat single/all/off — Повтор текущего трека. Повтор всей очереди. Повтор отключен.
+* !shuffle/reshuffle — Перемешать очередь. Снова перемешать очередь.
+* !np — Показывает песню, которую играет бот.
+* !queue — Показывает текущую очередь.
+* !pause — Приостанавливает текущую песню.
+* !destroy — Очистить очередь и отключиться от голосового канала.
+* !history — Показать недавно воспроизведённые песни.
+* !save — Сохранить текущую очередь.
 
 {% hint style="info" %}
-You can get list of this type of commands through typing !help
+Вы можете получить этот список команд написав в текстовом канале !help
 {% endhint %}
 
-## Additional commands
+## Дополнительные команды
 
-* !neko — Show art with neko.
-* !fox — Show photo with fox.
-* !help — Sending list with music commands to your DM.
-* !invite — Show link with bot invite
-* !say — Bot will repeat your message.
-* !ping — Show latency between bot and discord API.
-* !stats — Show some statistics about bot.
-* !shards — Show status of shards and their info.
-* !lang — Setting language in your server. [More info about it here.](changing-config.md#setting-language)
-* !prefix — Setting prefix in your server. [More info about it here.](changing-config.md#setting-prefix)
-* !admin — [More info about permission system here.](permission-system.md#admin-permission)
-* !dj — [More info about permission system here.](permission-system.md#dj-permission)
-* !user — [More info about permission system here.](permission-system.md#user-permission)
-* !config — Show current state of [track annnoune](changing-config.md#setting-track-announce) and [auto resume](changing-config.md#setting-auto-resume) features.
+* !neko — Арт с кошкодевочкой.
+* !fox — Фото с лисой.
+* !help — Отправка списка с музыкальными командами в ЛС.
+* !invite — Показать ссылку с приглашением бота.
+* !say — Бот повторит ваше сообщение.
+* !ping — Показать задержку между ботом и Discord API.
+* !stats — Показать статистику о боте.
+* !shards — Показать статус шардов и их информацию.
+* !lang — Настройка языка на вашем сервере. [Подробнее об этом здесь.](changing-config.md#nastroika-yazyka)
+* !prefix — Настройка префикса на вашем сервере. [Подробнее об этом здесь.](changing-config.md#izmenenie-prefiksa)
+* !admin — [Подробнее о системе прав здесь.](permission-system.md)
+* !dj — [Подробнее о системе прав здесь.](permission-system.md)
+* !user — [Подробнее о системе прав здесь.](permission-system.md)
+* !config — Показать текущее состояние функции [объявления трека](changing-config.md#nastroika-obyavleniya-treka) и [автоматического возобновления.](changing-config.md#nastroika-avtomaticheskogo-vozobnovleniya)
 
 {% hint style="info" %}
-You can get list of this type of commands through typing !other
+Вы можете получить этот список команд написав в текстовом канале !other
 {% endhint %}
 
