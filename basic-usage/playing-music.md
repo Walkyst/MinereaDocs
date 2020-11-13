@@ -8,7 +8,8 @@ description: This page will explain basic usage of Minerea
 Basic prefix of Minerea is `!`  
 It can be changed by [following this guide](../general-info/changing-config.md#setting-prefix)
 
-Minerea always use mention as prefix. Example: `@Minerea♪#1461 play`
+Minerea always use mention as prefix  
+Example: `@Minerea♪#1461 play`
 {% endhint %}
 
 {% hint style="warning" %}
@@ -25,7 +26,7 @@ Type in text channel
 
 Bot will give you list of 10 songs, select any with
 
-* !play `number from list`
+* !play `number from list` or `!number from list`
 
 ![](../.gitbook/assets/select5.png)
 

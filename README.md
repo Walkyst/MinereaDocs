@@ -10,7 +10,7 @@ description: In this docs you can find all useful information about Minerea
 
 ## Getting started
 
-First of all you need invite bot to your server with following this simple steps:
+First of all you need invite bot to your server with following this simple steps
 
 1. [Click this link](https://sdc.su/minerea)
 2. Select server to which you want invite Minerea.  **If you don't see desired server, make sure that you logged in to right discord account,** [**check that guide**](https://support.discord.com/hc/en-us/articles/209572128-Minerea) **for logging out from wrong account, then log into right one**

@@ -30,24 +30,18 @@ Help command always can be called through default `!` prefix
 
 Minerea can speak on many languages, here list of currently supported
 
-* `cs_CZ` - Česky
-* `en_US` - English
-* `it_IT` - Italiano
+* `en_US` - English \(Default language if server region is not setted to Russia\)
 * `ru_RU` - Русский
+* `cs_CZ` - Česky
+* `it_IT` - Italiano
 
 For example
 
-* !lang `ru_RU`
+* !lang `en_US`
 
-![](../.gitbook/assets/lang.png)
+![](../.gitbook/assets/lang%20%281%29.png)
 
-Now all responses to commands will be in Russian language
-
-{% hint style="info" %}
-If Minerea on join detect that your server region setted to Russian, ru\_RU language will be setted automatically
-
-You still can set English language through !lang `en_US`
-{% endhint %}
+Now all responses to commands will be in English language
 
 ## Setting track announce
 

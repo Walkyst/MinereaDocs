@@ -1,16 +1,16 @@
 ---
-description: All information that you need about perms system in Minerea
+description: All information that you need about permission system in Minerea
 ---
 
 # Permission system
 
 ## Introduction
 
-Minerea is focused on easy using in small servers where everyone is friends and not want to wasting time for dealing with setting right permissions, but if you owner of big server or just want prohibit annoying user from using bot in your server, permission system at your service
+Minerea is focused on easy using in small servers where everyone is friends and not want to wasting time for dealing with setting right permissions for bot, but if you owner of big server or just want prohibit annoying user from using bot in your server, permission system at your service
 
 ### Admin permission
 
-* [x] Add track to queue
+* [x] Adding tracks to queue
 * [x] Voteskip command
 * [x] Skip own track
 * [x] Skip other users tracks
@@ -24,7 +24,7 @@ Server owner **always** have Admin permission
 
 ### DJ permission
 
-* [x] Add track to queue
+* [x] Adding tracks to queue
 * [x] Voteskip command
 * [x] Skip own track
 * [x] Skip other users tracks
@@ -38,7 +38,7 @@ By default @everyone has DJ permission
 
 ### User permission
 
-* [x] Add track to queue, but can't add it to top of queue
+* [x] Adding tracks to queue, but can't add it to top of queue
 * [x] Voteskip command
 * [x] Skip own track
 * [ ] Skip other users tracks
@@ -47,7 +47,7 @@ By default @everyone has DJ permission
 * [ ] Destroy command
 
 {% hint style="info" %}
-By defauly @everyone has User permission
+By default @everyone has User permission
 {% endhint %}
 
 ## Setting permissions
@@ -62,7 +62,7 @@ For example
 If user or role has all DJ, Admin and User permission only the highest one take account of on command execution
 {% endhint %}
 
-Also you can denied someone from any permission
+Also you can remove user or role from any permission
 
 For example
 
