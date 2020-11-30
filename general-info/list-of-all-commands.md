@@ -40,7 +40,7 @@ description: Все команды которые есть в Minerea
 * !admin — [Подробнее о системе прав здесь.](permission-system.md)
 * !dj — [Подробнее о системе прав здесь.](permission-system.md)
 * !user — [Подробнее о системе прав здесь.](permission-system.md)
-* !config — Показать текущее состояние функции [объявления трека](changing-config.md#nastroika-obyavleniya-treka) и [автоматического возобновления.](changing-config.md#nastroika-avtomaticheskogo-vozobnovleniya)
+* !config — Показать текущие настройки на сервере.
 
 {% hint style="info" %}
 Вы можете получить этот список команд написав в текстовом канале !other
