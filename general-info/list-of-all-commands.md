@@ -40,7 +40,7 @@ You can get list of this type of commands through typing !help
 * !admin — [More info about permission system here.](permission-system.md#admin-permission)
 * !dj — [More info about permission system here.](permission-system.md#dj-permission)
 * !user — [More info about permission system here.](permission-system.md#user-permission)
-* !config — Show current state of [track annnoune](changing-config.md#setting-track-announce) and [auto resume](changing-config.md#setting-auto-resume) features.
+* !config — Show current settings on server.
 
 {% hint style="info" %}
 You can get list of this type of commands through typing !other

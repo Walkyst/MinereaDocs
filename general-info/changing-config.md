@@ -43,41 +43,53 @@ For example
 
 Now all responses to commands will be in English language
 
+## Setting Live♪Player
+
+Live♪Player provide new way to interact with bot, you can control it through reactions
+
+{% tabs %}
+{% tab title="Turn on" %}
+!config `live player true`
+{% endtab %}
+
+{% tab title="Turn off" %}
+!config `live player false`
+{% endtab %}
+{% endtabs %}
+
+![](../.gitbook/assets/liveplayer%20%281%29.png)
+
 ## Setting track announce
 
 Track announce setting showing info about current playing music when it starting
 
-Here example how to turn on or turn off this feature
-
 {% tabs %}
 {% tab title="Turn on" %}
-!config `track_announce true`
+!config `track announce true`
 {% endtab %}
 
 {% tab title="Turn off" %}
-!config `track_announce false`
+!config `track announce false`
 {% endtab %}
 {% endtabs %}
 
-![](../.gitbook/assets/trackannounce.png)
+![](../.gitbook/assets/trackannounce%20%281%29.png)
 
 ## Setting auto resume
 
 Auto resume setting does what the title says, it automatically resuming current music when someone is joining channel where bot
 
-Here example how to turn on or turn off this feature
-
 {% tabs %}
 {% tab title="Turn on" %}
-!config `auto_resume true`
+!config `auto resume true`
 {% endtab %}
 
 {% tab title="Turn off" %}
-!config `auto_resume false`
+!config `auto resume false`
 {% endtab %}
 {% endtabs %}
 
-![](../.gitbook/assets/autoresume%20%281%29.png)
+![](../.gitbook/assets/autoresume.png)
 
 
 
