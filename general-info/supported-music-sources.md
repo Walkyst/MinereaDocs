@@ -10,6 +10,8 @@ description: This page include list of all sources from which Minerea can play m
 * Twitch
 * Vimeo
 * Bandcamp
+* Yandex.Music
+* Yandex.Radio
 * Radio streams
 * Message attachments
 * Files over HTTP\(S\)
