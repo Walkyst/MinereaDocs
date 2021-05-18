@@ -4,7 +4,7 @@ description: This page include all information about premium features
 
 # Premium features
 
-* 24/7 playback
+* 24/7 playback \(To enable check the config command\)
 * Unlimited tracks in Spotify playlists
 * Volume command
 
