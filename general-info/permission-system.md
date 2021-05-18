@@ -14,9 +14,8 @@ Minerea is focused on easy using in small servers where everyone is friends and 
 * [x] Voteskip command
 * [x] Skip own track
 * [x] Skip other users tracks
-* [x] Repeat, reshuffle, pause, unpause, leave, stop, volume commands
+* [x] Repeat, reshuffle, pause, unpause, leave, stop, volume, destroy commands
 * [x] Change permissions, language, prefix of guild and access to config command
-* [x] Destroy command
 
 {% hint style="info" %}
 Server owner **always** have Admin permission
@@ -28,9 +27,8 @@ Server owner **always** have Admin permission
 * [x] Voteskip command
 * [x] Skip own track
 * [x] Skip other users tracks
-* [x] Repeat, reshuffle, pause, unpause, leave, stop, volume commands
+* [x] Repeat, reshuffle, pause, unpause, leave, stop, volume, destroy commands
 * [ ] Change permissions, language, prefix of guild and access to config command
-* [ ] Destroy command
 
 {% hint style="info" %}
 By default @everyone has DJ permission
@@ -42,9 +40,8 @@ By default @everyone has DJ permission
 * [x] Voteskip command
 * [x] Skip own track
 * [ ] Skip other users tracks
-* [ ] Repeat, reshuffle, pause, unpause, leave, stop, volume commands
+* [ ] Repeat, reshuffle, pause, unpause, leave, stop, volume, destroy commands
 * [ ] Change permissions, language, prefix of guild and access to config command
-* [ ] Destroy command
 
 {% hint style="info" %}
 By default @everyone has User permission
