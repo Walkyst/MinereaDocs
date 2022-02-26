@@ -6,10 +6,10 @@ description: The whole commands that Minerea have
 
 ## Music commands
 
-* !play &lt;title \| URL&gt; — Searching song with the given name or url.
-* !playnext &lt;title \| URL&gt; — Searching song with the given name or url but added it to top of queue.
-* !playnow &lt;title \| URL&gt; — Searching song with the given name but automatically select first result from list.
-* !playnownext &lt;title \| URL&gt; — Searching song with the given name but automatically select first result from list and added it to top of queue.
+* !play \<title | URL> — Searching song with the given name or url.
+* !playnext \<title | URL> — Searching song with the given name or url but added it to top of queue.
+* !playnow \<title | URL> — Searching song with the given name but automatically select first result from list.
+* !playnownext \<title | URL> — Searching song with the given name but automatically select first result from list and added it to top of queue.
 * !skip — Skip current song.
 * !stop — Clean queue.
 * !repeat single/all/off — Repeat current song. Repeat all queue. Repeat disabled.
@@ -27,7 +27,6 @@ You can get list of this type of commands through typing !help
 
 ## Additional commands
 
-* !neko — Show art with neko.
 * !fox — Show photo with fox.
 * !help — Sending list with music commands to your DM.
 * !invite — Show link with bot invite.
@@ -45,4 +44,3 @@ You can get list of this type of commands through typing !help
 {% hint style="info" %}
 You can get list of this type of commands through typing !other
 {% endhint %}
-
