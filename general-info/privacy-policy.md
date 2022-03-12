@@ -4,4 +4,4 @@ In order to be able to offer our services, we process and store personal data su
 
 The stored and/or processed data are also made available to other members of the server on request, depending on the individual configuration.
 
-The documentation of the Discord API can be found at https://discord.com/developers/docs/intro
+The documentation of the Discord API can be found at [https://discord.com/developers/docs/intro](https://discord.com/developers/docs/intro)
