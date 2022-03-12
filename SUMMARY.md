@@ -14,4 +14,4 @@
 * [Supported music sources](general-info/supported-music-sources.md)
 * [Available radio stations](general-info/available-radio-stations.md)
 * [Premium features](general-info/premium-features.md)
-
+* [Privacy Policy](general-info/privacy-policy.md)
