@@ -6,7 +6,6 @@ description: >-
 
 # Поддерживаемые источники музыки
 
-* YouTube
 * Spotify
 * Soundcloud
 * Twitch
@@ -16,5 +15,4 @@ description: >-
 * Яндекс.Радио
 * Радио поток
 * Вложения сообщений
-* Файлы через HTTP\(S\)
-
+* Файлы через HTTP(S)
