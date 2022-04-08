@@ -4,7 +4,6 @@ description: This page include list of all sources from which Minerea can play m
 
 # Supported music sources
 
-* YouTube
 * Spotify
 * Soundcloud
 * Twitch
@@ -14,5 +13,4 @@ description: This page include list of all sources from which Minerea can play m
 * Yandex.Radio
 * Radio streams
 * Message attachments
-* Files over HTTP\(S\)
-
+* Files over HTTP(S)
