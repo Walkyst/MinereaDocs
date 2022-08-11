@@ -15,3 +15,4 @@
 * [Доступные радиостанции](general-info/available-radio-stations.md)
 * [Премиум функции](general-info/premium-features.md)
 * [Политика конфиденциальности](general-info/politika-konfidencialnosti.md)
+* [Условия обслуживания](general-info/usloviya-obsluzhivaniya.md)
