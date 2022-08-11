@@ -15,3 +15,4 @@
 * [Available radio stations](general-info/available-radio-stations.md)
 * [Premium features](general-info/premium-features.md)
 * [Privacy Policy](general-info/privacy-policy.md)
+* [Terms of Service](general-info/terms-of-service.md)
