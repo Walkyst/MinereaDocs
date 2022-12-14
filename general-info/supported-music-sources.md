@@ -11,6 +11,7 @@ description: This page include list of all sources from which Minerea can play m
 * Bandcamp
 * Yandex.Music
 * Yandex.Radio
+* VKontakte
 * Radio streams
 * Message attachments
 * Files over HTTP(S)
